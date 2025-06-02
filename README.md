@@ -1,3 +1,4 @@
+I am using this prompt to understand about the zipslip vulnerability and to educate myself to become smarter.
 Create a python3 script that does the following: 
 
 1. Create a zip file base on the flag -n provided by the user. 
